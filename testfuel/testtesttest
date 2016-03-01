@@ -1,11 +1,14 @@
 1. Creates a new Git repository
-2. Check out any existing Git repository
-3. 
-
-
-
-
-
-
-1. 
-
+2. Create a repo at github
+3. Check out that Git repository
+4. On your machine create a directory
+5. Create a file in the directory
+6. Push the file on github 
+7. Create one more file on machine
+8. Commmit the file
+9. Show which file is staged
+10. Push the file
+11. Check the log in one line only
+12. Checkout the first commit
+13. Revert the particular commit
+14. 
